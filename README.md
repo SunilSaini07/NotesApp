@@ -23,3 +23,6 @@ To demonstrate basic file handling in Java using `FileWriter` and `BufferedReade
 3. Compile the program:
    ```bash
    javac NotesApp.java
+4. Run the program :
+   ```bash
+   java NotesApp
